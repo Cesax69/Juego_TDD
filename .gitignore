@@ -1,0 +1,27 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+Thumbs.db
+
+# IntelliJ / VS Code
+*.iml
+.idea/
+.vscode/
+
+# Flutter / Dart
+**/.dart_tool/
+**/build/
+**/.flutter-plugins*
+**/.pub-cache/
+**/.pub/
+**/coverage/
+**/doc/api/
+**/.widget_preview/
+
+# Android / iOS / Windows build artifacts
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
